@@ -1,7 +1,7 @@
 # This is a 20-bit MIPS CPU Design
 
 ## Project Overview
-This repository contains the implementation of a **20-bit MIPS CPU** designed as part of the **CSE332: Computer Architecture and Organization** course at **North South University (NSU)** under the guidance of **TNF faculty**.
+This repository contains the implementation of a **20-bit MIPS CPU** designed as part of the **CSE332: Computer Architecture and Organization** course's project at **North South University (NSU)** under the guidance of **TNF faculty**.
 
 The CPU is designed using **Logisim** and supports **single-cycle execution**. It implements a set of instructions, as detailed in the control signals table below.
 
