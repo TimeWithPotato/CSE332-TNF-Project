@@ -48,12 +48,12 @@ To see the CPU in action, check out the ![Demo of Logisim CPU Design](assets/20_
 
 ## Assembly Code Format
 Below is a sample format for assembly code:
-```
-ADD R1, R2, R3    // Adds register R2 and R3, stores result in R1
-BEQ R4, R5, branch address // Branch to the address where you want to go if R4 equals R5, for this example the branch address is 3
-LW R6, R0 7      // Load word from memory address 7 in R6 
-SW R8, R0, 8      // Store word in R8 to memory address 8
-```
+  ```assembly
+  ADD R1, R2, R3    // Adds register R2 and R3, stores result in R1
+  BEQ R4, R5, branch address // Branch to the address where you want to go if R4 equals R5, for this example the branch address is 3
+  LW R6, R0 7      // Load word from memory address 7 in R6 
+  SW R8, R0, 8      // Store word in R8 to memory address 8
+  ```
 
 ---
 
@@ -67,7 +67,10 @@ SW R8, R0, 8      // Store word in R8 to memory address 8
 ---
 
 ## Contributions
-Contributions are welcome! Feel free to fork this repository, submit pull requests, or report issues.
+  # **Project Member**
+  
+  - [Mohammed Arif Mainuddin](https://github.com/TimeWithPotato)
+  - [Najifa Tabassum](https://github.com/najifatabassum01)
 
 ---
 
